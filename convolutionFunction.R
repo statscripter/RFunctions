@@ -37,7 +37,7 @@ name = 'Michael Archibeque'
 # [1] 0.16 0.48 0.36
 #
 # Demonstration of the properties of the function:
-#
+
 # w <- c(1,2,1,3)
 # c <- c(2,0,1)
 #
